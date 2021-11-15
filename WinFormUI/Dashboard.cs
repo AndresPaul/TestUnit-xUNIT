@@ -67,5 +67,10 @@ namespace WinFormUI
             firstNumberValue.Value = 0;
             secondNumberValue.Value = 0;
         }
+
+        private void Dashboard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
