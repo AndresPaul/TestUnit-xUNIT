@@ -1,0 +1,6 @@
+C:\Users\Andres Paul\Documents\Andres\Calidad\Practica3\test\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Andres Paul\Documents\Andres\Calidad\Practica3\test\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Andres Paul\Documents\Andres\Calidad\Practica3\test\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Andres Paul\Documents\Andres\Calidad\Practica3\test\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andres Paul\Documents\Andres\Calidad\Practica3\test\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Andres Paul\Documents\Andres\Calidad\Practica3\test\DemoLibrary\obj\Debug\DemoLibrary.pdb
